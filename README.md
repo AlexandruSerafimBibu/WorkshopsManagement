@@ -30,3 +30,4 @@ arhitectura/UML - diagrama claselor, use-case, diagrama entitate-relatie
 
 -refactoring
 
+Vezi documentatia pentru mai multe detalii. SerafimMDS.pdf
