@@ -1,5 +1,8 @@
 # WorkshopsManagement
 
+https://youtu.be/axRt4Kz34iQ
+
+
 user stories, backlog creation -
     Problema care se pune este gestionarea unui sistem online de management a
 workshop-urilor care presupune posibilitatea unor utilizatori sa se autentifice, sa aiba un
